@@ -18,3 +18,6 @@ input {
     height: 80px;
 }
 
+textarea{
+    overflow-x: hidden;
+ }
